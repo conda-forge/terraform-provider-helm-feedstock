@@ -15,7 +15,7 @@ source:
   sha256: 9d2fda3d2fb3bf9084fb54d090fff6acc0f0187bca947ec990bb78a67eb14286
 
 build:
-  number: 0
+  number: 1
   script:
     - go build -v -o {{ target_gobin }}{{ x4_plugin }}{{ target_goexe }}
 
@@ -52,6 +52,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - mxr-conda
     - agcopenhaver
     - rluria14
     - oblute
