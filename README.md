@@ -3,7 +3,7 @@ About terraform-provider-helm
 
 Home: https://www.terraform.io
 
-Package license: MPL 2.0
+Package license: MPL-2.0
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/terraform-provider-helm-feedstock/blob/main/LICENSE.txt)
 
